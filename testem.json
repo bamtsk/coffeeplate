@@ -1,0 +1,11 @@
+{
+    "framework": "mocha",
+    "test_page": "test/runner.html",
+    "src_files" : [
+        "compiled/test/**/*.js",
+        "compiled/scr/**/*.js"
+    ],
+    "launch_in_dev": [
+        "Chrome"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "coffeeplate",
+  "version": "0.0.1",
+  "main": "public/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "lodash": "latest",
+    "requirejs": "latest"
+  }
+}

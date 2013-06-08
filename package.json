@@ -1,0 +1,25 @@
+{
+    "name": "coffeeplate",
+    "version": "0.0.1",
+    "description": "My front-application's boilerplate",
+    "main": "public/",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "",
+    "author": "tsk takezawa",
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-bower-task": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-connect": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-regarde": "*",
+        "grunt-contrib-coffee": "*",
+        "grunt-contrib-cssmin": "*",
+        "grunt-contrib-stylus": "*"
+    }
+}
