@@ -1,4 +1,4 @@
-define ["/compiled/src/util.js"], (Util) ->
+define ['util'], (Util) ->
 
   describe 'Task',->
     t = null

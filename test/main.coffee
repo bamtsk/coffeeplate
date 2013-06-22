@@ -1,4 +1,8 @@
-define ->
+require.config
+  paths:
+    util: '/compiled/src/util'
+
+require [], () ->
 
   describe 'テスト', ->
     it 'が可能であること', ->

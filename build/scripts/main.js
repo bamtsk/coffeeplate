@@ -16,7 +16,7 @@
 
   require(['jquery', 'lodash'], function($, _) {
     return $(function() {
-      return console.log('hello');
+      return console.log('hello coffeeplate');
     });
   });
 
